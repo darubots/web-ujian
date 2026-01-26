@@ -1,0 +1,18 @@
+
+[
+  {
+    "mata_pelajaran": "Bahasa Indonesia",
+    "soal": "Jelaskan apa yang dimaksud dengan ide pokok dalam sebuah paragraf dan bagaimana cara menemukannya?",
+    "kunci_jawaban": "Ide pokok adalah masalah utama yang dibahas dalam suatu paragraf. Cara menemukannya: membaca seluruh kalimat, menandai kalimat utama (biasanya di awal atau akhir), dan menyimpulkan inti sari paragraf tersebut."
+  },
+  {
+    "mata_pelajaran": "Ilmu Pengetahuan Alam",
+    "soal": "Sebutkan dan jelaskan proses siklus air secara singkat!",
+    "kunci_jawaban": "Siklus air terdiri dari: Evaporasi (penguapan air laut/sungai), Kondensasi (pembentukan awan dari uap air), Presipitasi (turunnya hujan), dan Infiltrasi (penyerapan air ke dalam tanah)."
+  },
+  {
+    "mata_pelajaran": "Sejarah",
+    "soal": "Apa makna proklamasi kemerdekaan bagi bangsa Indonesia?",
+    "kunci_jawaban": "Makna proklamasi: puncak perjuangan bangsa Indonesia, lahirnya negara kesatuan RI, titik awal pembangunan nasional, dan pernyataan kepada dunia bahwa Indonesia telah merdeka dan berdaulat."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1769396043423rsdxdk2ke",
+    "username": "admin",
+    "email": "admin@example.com",
+    "role": "owner",
+    "password": "$2a$10$04ztZkaQuregK0HfELNXLu.rIDz9lxBP4LvQ6fKdmBr508XZ5dfAS",
+    "isSuspended": false,
+    "createdAt": "2026-01-26T02:54:03.423Z",
+    "updatedAt": "2026-01-26T02:54:03.423Z"
+  },
+  {
+    "id": "1769396087741kb9faj3cy",
+    "username": "guru1",
+    "email": "guru@example.com",
+    "role": "guru",
+    "password": "$2a$10$THDbcYY712B3f3YMJug57uhBS/zXv8uQbjLNrC/UMCWXpywRP3Sfq",
+    "isSuspended": false,
+    "createdAt": "2026-01-26T02:54:47.741Z",
+    "updatedAt": "2026-01-26T02:54:47.741Z"
+  }
+]
