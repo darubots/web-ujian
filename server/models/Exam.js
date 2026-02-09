@@ -3,12 +3,15 @@ import mongoose from 'mongoose';
 const questionSchema = new mongoose.Schema({
     type: {
         type: String,
-        enum: ['essay', 'multiple_choice'],
+        enum: ['essay', 'multiple_choice', 'math', 'coding'],
         required: true
     },
     question: {
         type: String,
         required: true
+    },
+    image: {
+        type: String // URL or base64 string for question image
     },
     // For essay questions
     keyAnswer: {

@@ -2,7 +2,7 @@
 export type UserRole = 'owner' | 'guru' | 'siswa';
 
 // Question types
-export type QuestionType = 'essay' | 'multiple_choice';
+export type QuestionType = 'essay' | 'multiple_choice' | 'math' | 'coding';
 
 // Exam/submission status
 export type ExamStatus = 'upcoming' | 'active' | 'completed';
@@ -45,11 +45,14 @@ export interface Class {
 export interface Question {
   type: QuestionType;
   question: string;
+  image?: string; // URL or base64
   // For essay
   keyAnswer?: string;
   // For multiple choice
   options?: string[];
   correctAnswer?: number; // index
+  // For coding
+  codingLanguage?: string;
   points: number;
 }
 
